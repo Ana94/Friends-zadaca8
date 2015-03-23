@@ -1,0 +1,48 @@
+/**index css**/
+
+body{
+	margin: 18px 280px;
+	}
+	
+.cast{
+	padding: 0px 11%;;
+	}
+	
+.cast1{
+	float:right;
+	position: relative;
+	right: 10px;
+	}
+	
+	
+.logo{
+	padding-left:6%;
+	}
+	
+	
+.lijevo{
+	position: fixed;
+	top: 5px;
+	left:5px;
+	height: 98.5%;
+	width: auto;
+	padding-left: 10px;
+	}
+	
+.janice{
+	position: fixed;
+	width: 20%;
+	height: 95%;
+	right: 2px;
+	bottom: 0px;
+	}
+	
+h3{
+	text-align: center;
+	}
+	
+.izgled{
+	position: relative;
+	left: 20%;
+	}
+	
